@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ma petite page dédier à mon petit Enis</title>
+<link rel="icon" href="c:\Users\haili\Downloads\★.jpg"/>
+
+<script>
+
+    alert("COUCOU HEHEHHAHAHAHGAGAG")
+</script>
+        
+</head>
+<body>
+
+<header>
+    coucou mon petite Enis <width=70/>
+</header>
+<main>
+<table>
+    <thead>
+    </thead>
+    <section>
+   <img src="c:\Users\haili\Downloads\The starry night (Pokémon) _ banner twitter.jpg" alt="une bannière de jirachi sur le font de la peinture la nuit étoilée de Van Gogh"
+   width="500"/>
+   </section>
+   <tbody>
+    <p> <strong>j'espère vraiment que je vais réussir à faire un minimum de truc bien parce que ça fait troix heures que je suis là dessus, j'ai mal aux fesses à force d'être assise dans la même position c'est terrible</strong></p>
+    <h3>J'espère que tu va bien mon petit enis, j'espère que tu vas bien dormir et que tu vas bien manger le bon kebab RAWR KEBABBBB HEHEHEHAHHAGAGAGAGAG </h3>
+    </tbody>
+
+    <tfoot>
+
+    </tfoot>
+ </table>
+</main>
+
+<footer>
+   <h5> c'est grace à toi mon petit Enis que j'ai pus faire se site web (ça ressemble à rien mais c'est pas grave)</h5>
+</footer>
+    
+</body>
+</html>
